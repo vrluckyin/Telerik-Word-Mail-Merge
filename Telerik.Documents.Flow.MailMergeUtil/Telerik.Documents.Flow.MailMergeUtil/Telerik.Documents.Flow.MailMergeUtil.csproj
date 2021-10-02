@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telerik.Documents.Fixed" Version="2020.1.109" />
+    <PackageReference Include="Telerik.Documents.Flow" Version="2020.1.109" />
+    <PackageReference Include="Telerik.Documents.Flow.FormatProviders.Pdf" Version="2020.1.109" />
+  </ItemGroup>
+
+</Project>

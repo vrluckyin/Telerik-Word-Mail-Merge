@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.v2
+*.testlog
+/Telerik.Documents.Flow.MailMergeUtil/.vs/Telerik.Documents.Flow.MailMergeUtil/v16/TestStore/0/testlog.manifest
+/Telerik.Documents.Flow.MailMergeUtil/.vs/Telerik.Documents.Flow.MailMergeUtil/v16/.suo
+/Telerik.Documents.Flow.MailMergeUtil/Telerik.Documents.Flow.MailMergeUtil/obj/Debug/net5.0
+/Telerik.Documents.Flow.MailMergeUtil/Telerik.Documents.Flow.MailMergeUtil/obj
+/Telerik.Documents.Flow.MailMergeUtil/Telerik.Documents.Flow.MailMergeUtil.Tests/obj
+/Telerik.Documents.Flow.MailMergeUtil/Telerik.Documents.Flow.MailMergeUtil/bin/Debug/net5.0
+/Telerik.Documents.Flow.MailMergeUtil/Telerik.Documents.Flow.MailMergeUtil.Tests/bin/Debug/net5.0
